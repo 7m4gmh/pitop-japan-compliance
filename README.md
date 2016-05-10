@@ -12,6 +12,7 @@ Nothing on this project is intended to create an attorney-client relationship an
 
 このプロジェクトに登録された文書は、CC Zero ライセンスが適用されます。
 
-= もくじ =
+# もくじ 
 
 * [AC/DCアダプタの検討] (ACDC-adapter.md)
+* [LiPoバッテリーパックの検討] (lipo-battery.md)
