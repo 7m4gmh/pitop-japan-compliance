@@ -5,6 +5,8 @@ pi-top ハードウエアを日本で販売するために必要な、日本の�
 
 (Legal Memo - NOT tech docs.  ) 
 
+This is a draft memo regarding compliance with product safety and environmental regulations of import, sale and distribution of pi-top (or similar DIY PC bundles) in Japan.
+
 Nothing on this project is intended to create an attorney-client relationship and nothing posted constitutes legal advice.
 
 このプロジェクトは、法的アドバイスを行うものではなく、また、その勧誘を意図したものではありません。
