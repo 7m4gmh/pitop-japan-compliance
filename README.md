@@ -14,5 +14,6 @@ Nothing on this project is intended to create an attorney-client relationship an
 
 # もくじ 
 
+* [Pi-top キット全体に対する規制の検討] (pitop-kit.md)
 * [AC/DCアダプタの検討] (ACDC-adapter.md)
 * [LiPoバッテリーパックの検討] (lipo-battery.md)
