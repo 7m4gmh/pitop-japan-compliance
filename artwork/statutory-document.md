@@ -1,3 +1,11 @@
+<!--
+この文書は、 pandoc で HTML に変換します。
+
+$ pandoc statutory-document.md  -V documentclass=ltjarticle --latex-engine=lualatex --self-contained -o statutory-document.html
+
+Raspbian/pi-topOS では、 texlive-lang-japanese と texlive-xetex をインストールしてください。
+$ sudo apt-get install texlive-xetex texlive-lang-japanese
+-->
 # Pi-top (日本仕様) ご利用の手引
 
 輸入販売元: 梅本合同会社
@@ -16,6 +24,7 @@ http://support.pi-top.com/support/login/
 この商品（自作PC組み立てキット）は、pi-top開発・製造元の CEED LTD (イギリス)の許諾の元、輸入販売元が日本国内の安全基準、環境基準などに適合させたものです。
 
 輸入販売元では、キットに含まれる部品の初期不良について返品・交換を承りますが、その他の問題については、対応いたしかねますのでご了承ください。
+
 ## 部品の確認 -- 組み立て前に、必ず行ってください
 
 商品開封後、必ず部品の過不足をご確認ください。
