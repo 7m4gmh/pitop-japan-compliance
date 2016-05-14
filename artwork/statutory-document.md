@@ -49,13 +49,12 @@ shop@umemoto.org
 
 # バッテリーパック
 
+	
 <table border=0>
 	<tr>
-		<td>
-			!(167px-Recycling_Li-ion.png)
+		<td width="120">
+			<img src="167px-Recycling_Li-ion.png" width="100">
 		</td>
-	</tr>
-	<tr>
 		<td>
 		この商品には、再資源化可能な二次電池（リチウムイオン・ポリマー電池）が含まれています。
 		不要になった商品は、みだりに廃棄せずに、資源回収にご協力ください。
@@ -84,7 +83,7 @@ shop@umemoto.org
 
 ## ACアダプターと電源コードセット
 
-付属の電源コードセットは、付属のACアダプター専用です。電源コードセットを他の機器に使用しないでください。
+**付属の電源コードセットは、付属のACアダプター専用です。電源コードセットを他の機器に使用しないでください。**
 （電源コードセットは専用品のため、PSE表示の対象外です。）
 
 ## 梱包容器
@@ -95,10 +94,10 @@ shop@umemoto.org
 <table border=0>
 	<tr>
 		<td>
-			!(707px-Recycling_kami.png width=50)<BR>箱
+			<img src="707px-Recycling_kami.png" width="75"><BR>箱
 		</td>
 		<td>
-			!(840px-Recycling_pla.png width=50)<BR>緩衝材:PS, 袋:PE
+			<img src="840px-Recycling_pla.png" width="75"><BR>緩衝材:PS, 袋:PE
 		</td>
 	</tr>
 </table>
