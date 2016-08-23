@@ -20,3 +20,4 @@ Nothing on this project is intended to create an attorney-client relationship an
 * [容器包装の検討] (container-packaging.md)
 * [AC/DCアダプタの検討] (ACDC-adapter.md)
 * [LiPoバッテリーパックの検討] (lipo-battery.md)
+* [輸出令・外為令の検討] (export-regulation.md)
